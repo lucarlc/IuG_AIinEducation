@@ -1,0 +1,17 @@
+streamlit~=1.33
+pandas~=2.2
+numpy~=1.26
+python-dotenv~=1.0
+faiss-cpu~=1.8
+pymupdf~=1.24
+tiktoken~=0.7
+rank-bm25~=0.2
+
+# LangChain split to avoid meta-drift
+langchain~=0.2
+langchain-core~=0.2
+langchain-community~=0.2
+langchain-openai~=0.1
+langchain-text-splitters~=0.2
+
+openai~=1.35
