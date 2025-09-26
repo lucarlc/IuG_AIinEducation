@@ -18,8 +18,7 @@ Neuer Ordner/
 ├── data/                     # Eingabedaten
 │   ├── pool/                 # offizielle Aufgabenpools (PDF)
 │   ├── evaluation/           # Evaluationsmaterial (PDF)
-│   └── spezifikationen/      # offizielle Spezifikationen (PDF)
-├── figures/                                                        
+│   └── spezifikationen/      # offizielle Spezifikationen (PDF)                                                        
 ├── README.md
 ├── requirements.txt          # oder pyproject.toml
 ├── .env.example              # Beispiel-Variablen (ohne echte Keys)
