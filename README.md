@@ -14,14 +14,12 @@ Neuer Ordner/
 │   ├── main_app.py
 │   ├── pdf_extract.py
 │   ├── prompts.py
-│   └── runs/                 # Laufprotokolle (nicht versioniert)
+│   └── runs/                 # Laufprotokolle
 ├── data/                     # Eingabedaten
 │   ├── pool/                 # offizielle Aufgabenpools (PDF)
 │   ├── evaluation/           # Evaluationsmaterial (PDF)
 │   └── spezifikationen/      # offizielle Spezifikationen (PDF)
-├── figures/                  # Abbildungen für die Arbeit 
-├── outputs/                  # CSV/JSON-Exporte 
-├── tests/                    # optionale Pytest-Tests
+├── figures/                                                        
 ├── README.md
 ├── requirements.txt          # oder pyproject.toml
 ├── .env.example              # Beispiel-Variablen (ohne echte Keys)
